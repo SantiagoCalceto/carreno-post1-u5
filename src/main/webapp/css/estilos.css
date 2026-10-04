@@ -1,0 +1,11 @@
+/* Hoja de estilos compartida por tareas.jsp y detalle.jsp */
+body { font-family: Arial, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ccc; padding: 8px 12px; }
+th { background: #065A82; color: white; }
+.error { color: #C62828; background: #FFEBEE; padding: 8px; }
+.completada { text-decoration: line-through; color: #808080; }
+.filtro { display: flex; gap: 8px; margin-bottom: 1rem; flex-wrap: wrap; }
+.saludo { color: #21295C; font-weight: bold; }
+table.detalle th { width: 160px; text-align: left; background: #1C7293; }
+td form { margin: 0; }
