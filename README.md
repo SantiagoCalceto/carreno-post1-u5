@@ -100,7 +100,7 @@ y el último filtro aplicado.
 ## Cómo compilar y desplegar
 Requisitos: JDK 17+, Maven 3.8+, Apache Tomcat 10.1.
 
-1. Clonar el repositorio: `git clone https://github.com/[usuario]/carreno-post1-u5.git`
+1. Clonar el repositorio: `git clone https://github.com/SantiagoCalceto/carreno-post1-u5.git`
 2. Abrir la carpeta como proyecto Maven en IntelliJ IDEA.
 3. Compilar: `mvn clean package` → genera `target/gestion-tareas.war`.
 4. Desplegar:
